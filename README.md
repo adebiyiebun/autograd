@@ -1,5 +1,5 @@
 ## autograd
-------------------------------------------------------------
+
 ### description
 creating an ios application to help apply for jobs faster, which utilises a web search and web scraping to find the best and suitable jobs. I also aim to use opencv's gpt-3 ai in order to create cover letters and answer job application questions
 ------------------------------------------------------------
